@@ -12,4 +12,4 @@ This removes the high pitch ping that happens when the resource scanner finds a 
 
 ## How to install
 
-Just download these files and copy them into a "NoResourceScannerPing" directory in Satisfactory's "Mods" directory
+Just download the latest [release](https://github.com/JosefBud/NoResourceScannerPings/releases) for your platform and unzip the files into a "NoResourceScannerPing" directory in Satisfactory's "Mods" directory
