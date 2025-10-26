@@ -4,7 +4,7 @@ A Satisfactory mod
 
 ## Attribution
 
-This repository is forked from [NoWetNoodleBasher by Th3Fanbus](https://github.com/Th3Fanbus/NoWetNoodleBasher). They did all of the work here, I just replaced a variable to target the resource scanner ping sound instead of the Xeno-Zapper sound. And added a cute pic of my dog.
+This repository is forked from [NoWetNoodleBasher by Th3Fanbus](https://github.com/Th3Fanbus/NoWetNoodleBasher). They did all of the work here, I just replaced a variable to target the resource scanner ping sound instead of the Xeno-Zapper sound.
 
 ## What is this
 
@@ -12,4 +12,10 @@ This removes the high pitch ping that happens when the resource scanner finds a 
 
 ## How to install
 
-Just download the latest [release](https://github.com/JosefBud/NoResourceScannerPings/releases) for your platform and unzip the files into a "NoResourceScannerPing" directory in Satisfactory's "Mods" directory
+### Recommended
+
+Use the Satisfactory Mod Manager and install it through there - https://ficsit.app/mod/NoResourceScannerPing
+
+### Alternate
+
+Download the latest [release](https://github.com/JosefBud/NoResourceScannerPings/releases) and unzip the files into a "NoResourceScannerPing" directory in Satisfactory's "Mods" directory
