@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "NoResourceScannerPing",
+	"Description": "Remove the high pitch ping from the resource scanner, which may be upsetting to non-lizard doggos",
+	"Category": "Modding",
+	"CreatedBy": "JosefBud",
+	"CreatedByURL": "https://github.com/JosefBud",
+	"DocsURL": "https://github.com/JosefBud/NoResourceScannerPings",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/JosefBud/NoResourceScannerPings/issues",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.9.0"
+		}
+	],
+	"SemVersion": "1.0.0",
+	"GameVersion": ">=416835"
+}

@@ -1,5 +1,7 @@
 # NoResourceScannerPings
 
+A Satisfactory mod
+
 ## Attribution
 
 This repository is forked from [NoWetNoodleBasher by Th3Fanbus](https://github.com/Th3Fanbus/NoWetNoodleBasher). They did all of the work here, I just replaced a variable to target the resource scanner ping sound instead of the Xeno-Zapper sound. And added a cute pic of my dog.
@@ -10,4 +12,4 @@ This removes the high pitch ping that happens when the resource scanner finds a 
 
 ## How to install
 
-Just download these files and copy them into a "NoWetNoodleBasher" directory in Satisfactory's "Mods" directory
+Just download these files and copy them into a "NoResourceScannerPing" directory in Satisfactory's "Mods" directory
